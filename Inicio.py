@@ -12,6 +12,7 @@ st.markdown("""
     - peso y balance 
     - regulaciones
     - procedimientos de emergencia.
-
+- Resaltar las ventajas y desventajas de la aeronave
+- Conocer las capacidades y limitaciones de la aeronave
 """)
 
