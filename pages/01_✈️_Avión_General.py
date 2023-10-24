@@ -19,7 +19,8 @@ st.markdown("""
             
     - Salida de Emergencia
         - Operación
-        - Hacer una práctica
+        - Evacuación de emergencia
+        - Hacer una práctica del uso de puertas
 - Baño
     - Cantidad de líquido
     - Relación con sistema de presurización
